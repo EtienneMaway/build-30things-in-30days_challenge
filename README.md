@@ -6,4 +6,5 @@ The more you tackle different problems and solve them, the better you become.
 
 This is a 30 days challenge of building simple small projects to help stregthen your javaScript muscles.
 
-1. DIGITAL CLOCK => friday 9th june 2023
+1. DIGITAL CLOCK => Friday 9th june 2023
+2. REAL TIME CHARACTER COUNTER => Saturday 10th June 2023

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "build-30things-in-30days_challenge",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1. Digital clock"
+	}
+}
