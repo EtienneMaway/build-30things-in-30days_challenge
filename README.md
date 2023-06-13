@@ -9,4 +9,5 @@ This is a 30 days challenge of building simple small projects to help stregthen 
 1. DIGITAL CLOCK => Friday 9th june 2023
 2. REAL TIME CHARACTER COUNTER => Saturday 10th June 2023
 3. RECIPE APP => Sunday 11th June 2023
-   4.CAROUSEL => Monday 10th June 2023
+4. CAROUSEL => Monday 12th June 2023
+5. HEART TRAIL ANIMATION => Tuesday 13th June 2023
