@@ -1,0 +1,70 @@
+body{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+
+}
+
+.image-content{
+  background-image: url("https://images.unsplash.com/photo-1563191911-e65f8655ebf9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80");
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.image-content h1{
+  color: white;
+  font-size: 4rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}  
+
+p{
+  margin: 50px 5%;
+  letter-spacing: 2px;
+  font-size: 18px;
+  font-family: Arial;letter-spacing: 1px;
+}
+
+
+nav{
+  position: fixed;
+  background-color: white;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, .3);
+}
+nav.active{
+  background-color: black;
+  transition: background .5s ease-out;
+}
+
+nav.active ul{
+  color: white;
+}
+
+.logo{
+  margin-left: 25px;
+  text-decoration: none;
+  color: rgb(218, 85, 85);
+  font-size: 25px;
+  font-family: cursive;
+  font-weight: bolder;
+}
+
+nav ul{
+  display: flex;
+  list-style: none;
+  margin-right: 20px;
+}
+
+nav ul li{
+  margin: 10px;
+  font-size: 20px;
+}

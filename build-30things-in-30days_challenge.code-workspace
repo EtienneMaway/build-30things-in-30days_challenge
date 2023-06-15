@@ -6,6 +6,6 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "1. Digital clock"
+		"liveServer.settings.port": 5501
 	}
 }
