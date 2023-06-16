@@ -13,3 +13,4 @@ This is a 30 days challenge of building simple small projects to help stregthen 
 5. HEART TRAIL ANIMATION => Tuesday 13th June 2023
 6. STICKY NAVBAR => Wednesday 14th June 2023
 7. BUTTON RIPPLE EFFECT => Thursday 15th June 2023
+8. COUNT DOWN TIMER => Friday 16th June 2023
